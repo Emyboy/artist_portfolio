@@ -5,10 +5,10 @@
     </div>
     <div class="menu">
       <ul class="transition_link">
-        <li class="active"><a href="#home">Home</a></li>
-        <li class=""><a href="#about">Songs</a></li>
+        <li class="active"><nuxt-link to="/">Home</nuxt-link></li>
+        <!-- <li class=""><a href="#about">Songs</a></li>
         <li class=""><a href="#portfolio">Videos</a></li>
-        <li class=""><a href="#news">Images</a></li>
+        <li class=""><a href="#news">Images</a></li> -->
       </ul>
       <span class="ccc" style="left: 0px; width: 89px"></span>
     </div>
