@@ -6,6 +6,8 @@
     data-exit="rollOut"
   >
     <Nav />
+    <MobileNav />
+    <MobileDrawer />
     <div class="cavani_tm_left_border"></div>
     <div class="cavani_tm_right_border"></div>
     <div class="cavani_tm_mainpart">

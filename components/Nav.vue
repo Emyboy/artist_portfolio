@@ -1,7 +1,7 @@
 <template>
   <div class="cavani_tm_header">
     <div class="logo">
-      <a href="#"><img src="img/logo/dark.png" alt="" /></a>
+      <a href="#"><h2>YmE</h2></a>
     </div>
     <div class="menu">
       <ul class="transition_link">

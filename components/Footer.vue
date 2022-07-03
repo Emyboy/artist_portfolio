@@ -1,7 +1,7 @@
 <template>
   <div class="cavani_tm_footer">
     <div class="copyright">
-      <p>Copyright © 2021</p>
+      <p>Copyright © {{new Date().getFullYear()}}</p>
     </div>
     <div class="social">
       <ul>
