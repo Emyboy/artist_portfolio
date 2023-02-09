@@ -28,6 +28,6 @@
     "chromedriver": "^96.0.0",
     "eslint-config-prettier": "^8.3.0",
     "nightwatch": "^1.7.12",
-    "prettier": "^2.5.1"
+    "prettier": "^2.8.4"
   }
 }
